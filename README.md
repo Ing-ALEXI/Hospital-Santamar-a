@@ -19,6 +19,7 @@ Puedes descargar el archivo la base de datos del proyecto desde el siguiente enl
 [Descargar Proyecto](https://haciendamariscal.net/inicio/base-de-datos.rar).
 
 Base de datos:
+
 ![image](https://github.com/Ing-ALEXI/Hospital-Santamar-a/assets/158320520/42d27f5c-3c19-462e-87fa-7aaf1688373c)
 
 Tabla Asistencias:
