@@ -20,8 +20,12 @@ Puedes descargar el archivo la base de datos del proyecto desde el siguiente enl
 
 ## Modulos 
 - Registro de entradas y salidas en la base de datos MySQL.
+- ![image](https://github.com/Ing-ALEXI/Hospital-Santamar-a/assets/158320520/29d5bf89-8f76-405e-8fd5-4302d1c9e092)
 - Recuperación y visualización de los registros de asistencia del dia actual.
+- ![image](https://github.com/Ing-ALEXI/Hospital-Santamar-a/assets/158320520/7471930f-5aac-45e1-9bf0-ad76cb211c59)
 - Generación de un reporte de asistencia en formato PDF.
+- ![image](https://github.com/Ing-ALEXI/Hospital-Santamar-a/assets/158320520/90555b4f-9b9b-4be4-b72f-01010478b36a)
+
   
 
 ¡Gracias por tu tiempo!
