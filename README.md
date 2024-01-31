@@ -17,6 +17,14 @@ Descomprime el archivo descargado en un directorio de tu elección.
 La base de datos sencilla del proyecto contiene información su funcionalidad. Asegúrate de revisar la estructura de la base de datos y comprende las relaciones entre las tablas(*se puso solo los campos necesarios para el funcionamiento de los requisitos de la prueba*).
 Puedes descargar el archivo la base de datos del proyecto desde el siguiente enlace:
 [Descargar Proyecto](https://haciendamariscal.net/inicio/base-de-datos.rar).
+Base de datos:
+![image](https://github.com/Ing-ALEXI/Hospital-Santamar-a/assets/158320520/42d27f5c-3c19-462e-87fa-7aaf1688373c)
+Tabla Asistencias:
+![image](https://github.com/Ing-ALEXI/Hospital-Santamar-a/assets/158320520/2e61bd49-e902-46cc-8d11-eaa625e0c1ed)
+Tabla Usuarios:
+![image](https://github.com/Ing-ALEXI/Hospital-Santamar-a/assets/158320520/95229371-3d39-4526-9aa4-527d8904697e)
+
+
 
 ## Modulos 
 - Registro de entradas y salidas en la base de datos MySQL.
