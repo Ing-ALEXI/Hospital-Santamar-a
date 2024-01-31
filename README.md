@@ -4,7 +4,7 @@ Evaluación técnica.
 
 ## Proyecto
 
-El proyecto esta subida en el servidor ionos, el link para acceder es: [https://haciendamariscal.net/inicio/](https://haciendamariscal.net/inicio/).
+El proyecto esta subido en el servidor ionos, el link para acceder es: [https://haciendamariscal.net/inicio/](https://haciendamariscal.net/inicio/).
 ### Descarga del Archivo del Proyecto
 
 Puedes descargar el codigo  del proyecto desde el siguiente enlace: 
